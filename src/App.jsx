@@ -1,7 +1,8 @@
 import { BrowserRouter as Router , Routes , Route } from 'react-router-dom'
-import Index from './pages'
+
 import Makanan from './components/Makanan'
 import Minuman from './components/Minuman'
+import Index from './pages/Halaman'
 
 
 
